@@ -1,6 +1,6 @@
 # My-Media-Store
 
-Design and implement a basic media library system. User can make inventory queries and add or remove items.
+Design and implementation of a basic media library system. User can make inventory queries and add or remove items.
 
 Each library item has four identifying attributes:
 1. Reference
